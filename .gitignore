@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__/
+*.sqlite3
+django_venv/
+.env
+\n.DS_Store\n__pycache__/\n*.sqlite3\n*_venv/\n.env\n\n.DS_Store\n__pycache__/\n*.sqlite3\n*_venv/\n.env\n\n.DS_Store\n__pycache__/\n*.sqlite3\n*_venv/\n.env\n
